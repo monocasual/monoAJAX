@@ -1,0 +1,8 @@
+{
+	"compilerOptions": {
+		"outFile": "build/monoajax.js"
+	},
+	"files": [
+		"src/main.ts"
+	]
+}
